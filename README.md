@@ -1,7 +1,7 @@
 # 💫Hi, i a'm Alok Kumar Jena:
 Full Stack Developer (MERN) || Building Scalable Web Apps || Exploring Next.js & Cloud || From India
 
-🌱 I’m currently exploring Advanced MERN Stack & Next.js  <br><br>💻 I enjoy building full-stack projects like LMS & Certificate Generator  <br><br>💬 Ask me about JavaScript, React.js, Node.js, and MongoDB  <br><br>📫 How to reach me: alokjena3896@gmail.com  <br><br>⚡ Fun fact: I believe learning never stops 🚀  
+🌱 I’m currently exploring Advanced MERN Stack & Next.js  <br><br>💻 I enjoy building full-stack projects like E-commerse & Resume Builder  <br><br>💬 Ask me about JavaScript, React.js, Node.js, and MongoDB  <br><br>📫 How to reach me: alokjena3896@gmail.com  <br><br>⚡ Fun fact: I believe learning never stops 🚀  
 
 
 ## 🌐 Socials:
