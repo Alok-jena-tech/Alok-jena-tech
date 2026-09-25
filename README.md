@@ -1,8 +1,7 @@
-# 💫Hi, i a'm Alok Kumar Jena:
-Full Stack Developer (MERN) || Building Scalable Web Apps || Exploring Next.js & Cloud || From India
+# 💫 Hi, i am Alok Kumar Jena:
+Full Stack Developer (MERN) || Building Scalable Web Apps || Next.js, TypeScript & PostgreSQL || AWS & Cloud || From India
 
-🌱 I’m currently exploring Advanced MERN Stack & Next.js  <br><br>💻 I enjoy building full-stack projects like E-commerse & Resume Builder  <br><br>💬 Ask me about JavaScript, React.js, Node.js, and MongoDB  <br><br>📫 How to reach me: alokjena3896@gmail.com  <br><br>⚡ Fun fact: I believe learning never stops 🚀  
-
+🌱 I’m currently exploring Advanced MERN Stack, Next.js, TypeScript & Cloud Technologies  <br><br>💻 I enjoy building full-stack projects like Healthcare/HMIS, LMS & E-commerce applications  <br><br>🚀 Experienced with React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, TypeScript, Redis & Socket.IO  <br><br>☁️ Hands-on with AWS EC2/RDS, Docker, Nginx, PM2 & CI/CD using GitHub Actions for application deployment  <br><br>📚 Worked on LMS & Job Portal platforms with role-based access, payments, PostgreSQL & scalable backend features  <br><br>🏥 Interested in building scalable Healthcare/HMIS applications and real-world production systems  <br><br>💬 Ask me about JavaScript, TypeScript, React.js, Next.js, Node.js, MongoDB, PostgreSQL, REST APIs & System Design  <br><br>📫 How to reach me: alokjena3896@gmail.com  <br><br>⚡ Fun fact: I believe learning never stops 🚀
 
 ## 🌐 Socials:
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alokjena3896@gmail.com) 
